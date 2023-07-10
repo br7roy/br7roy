@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+
+![Profile](https://github-readme-stats.vercel.app/api?username=br7roy&show_icons=true&theme=dark)
+
 <!--
 **br7roy/br7roy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
